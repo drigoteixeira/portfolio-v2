@@ -64,7 +64,7 @@
 						<section class="posts">
 							<article class="post">
 								<div class="post-content">
-									<p>My name is Rodrigo Teixeira. I'm UI Designer and IA Enthusiast living in São Paulo, Brazil. I work at A2 Comunicação on the Design Team. </p> 
+									<p>My name is Rodrigo Teixeira (shortname: Drigo).  I'm UI Designer and IA Enthusiast living in São Paulo, Brazil. I work at A2 Comunicação on the Design Team. </p> 
 									<p>I'm also, co-founder of <a href="http://www.alternativacoletiva.com">Alternativa Coletiva</a> and co-author of <a href="http://www.modularhtml.com.br">Modular HTML</a>.</p>
 									<p>Visit my <a href="http://www.drigoteixeira.com/blog/">blog</a> or follow me on <a href="http://www.twitter.com/drigoteixeira">Twitter</a>, <a href="http://www.facebook.com/drigoteixeira">Facebook</a> or <a href="http://br.linkedin.com/in/drigoteixeira">LinkedIn</a>. Get in touch at <a href="mailto:drigoteixeira@gmail.com">drigoteixeira at gmail.com</a>.</p>
 
