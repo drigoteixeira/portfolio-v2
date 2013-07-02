@@ -15,6 +15,7 @@
 <link rel="canonical" href="http://www.drigoteixeira.com/" />
 <link rel="author" href="https://plus.google.com/110545419521358863582"/>
 <link rel="publisher" href="https://plus.google.com/110545419521358863582/"/>
+
 <meta property='og:locale' content='pt_BR'/>
 <meta property='og:type' content='website'/>
 <meta property='og:title' content='Drigo Teixeira - UI Designer | Entusiasta de Arquitetura de Informação'/>
@@ -66,7 +67,7 @@
 								<div class="post-content">
 									<p>My name is Rodrigo Teixeira (shortname: Drigo).  I'm UI Designer and IA Enthusiast living in São Paulo, Brazil. I work at <a href="http://www.a2comunicacao.com.br">A2 Comunicação</a> on the Design Team. </p> 
 									<p>I'm also, co-founder of <a href="http://www.alternativacoletiva.com">Alternativa Coletiva</a> and co-author of <a href="http://www.modularhtml.com.br">Modular HTML</a>.</p>
-									<p>Visit my <a href="http://www.drigoteixeira.com/blog/">blog</a> or follow me on <a href="http://www.twitter.com/drigoteixeira">Twitter</a>, <a href="http://www.facebook.com/drigoteixeira">Facebook</a> or <a href="http://br.linkedin.com/in/drigoteixeira">LinkedIn</a>. Get in touch at <a href="mailto:drigoteixeira@gmail.com">drigoteixeira at gmail.com</a>.</p>
+									<p>Visit my <a href="http://www.drigoteixeira.com/blog/">blog</a> (in Portuguese) or follow me on <a href="http://www.twitter.com/drigoteixeira">Twitter</a>, <a href="http://www.facebook.com/drigoteixeira">Facebook</a> or <a href="http://br.linkedin.com/in/drigoteixeira">LinkedIn</a>. Get in touch at <a href="mailto:drigoteixeira@gmail.com">drigoteixeira at gmail.com</a>.</p>
 
 								</div>
 							</article>
